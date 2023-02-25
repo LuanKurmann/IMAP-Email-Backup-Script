@@ -9,3 +9,6 @@ Configure the IMAP settings in the script by editing the relevant variables.
 Run the script via a web browser or a command line interface.
 ## Usage
 The script will create a backup folder with the current date and time, and a subfolder for each mailbox subfolder. The emails in each subfolder will be fetched and saved in the corresponding backup subfolder. The script can be used as a basis for an automated backup solution for IMAP mailboxes.
+
+
+*This script was created with the help of ChatGPT, a large language model trained by OpenAI.
